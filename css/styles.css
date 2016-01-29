@@ -5,9 +5,25 @@ head {
 
 
 body {
-  background-color: #C0C0C0;
+  background-color: #0d0d0d;
 }
 
 p {
     background-color: #BDB76B;
 }
+
+h1 {
+
+	font-size: 5em;
+	color: #cccccc;
+	background-color: #00191a;
+
+	
+}
+
+.alt_color {
+	color: #2F4F4F;
+	letter-spacing: .01em;
+}
+
+#1a1a1a

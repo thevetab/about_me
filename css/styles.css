@@ -17,9 +17,15 @@ h1 {
 	font-size: 5em;
 	color: #cccccc;
 	background-color: #00191a;
+	}
 
+	h2 {
+
+	font-size: 1em;
+	text-align: center;
+	color: #cccccc;
 	
-}
+	}
 
 .alt_color {
 	color: #2F4F4F;

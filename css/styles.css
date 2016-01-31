@@ -2,34 +2,69 @@ head {
   background-color: rgb(255,0,255);
 }
 
-
-
 body {
   background-color: #0d0d0d;
 }
 
 p {
-    background-color: #BDB76B;
+	color: #808080;
+	padding-bottom: 15px;
 }
 
 h1 {
-
 	font-size: 5em;
 	color: #cccccc;
-	background-color: #00191a;
-	}
-
-	h2 {
-
-	font-size: 1em;
-	text-align: center;
-	color: #cccccc;
-	
-	}
-
-.alt_color {
-	color: #2F4F4F;
-	letter-spacing: .01em;
+	padding-top: 20px;
+	padding-bottom: 10px;
 }
 
-#1a1a1a
+h2 {
+	font-size: 15px;
+	text-align: center;
+	color: #cccccc;
+	padding-bottom: 2px;
+}
+
+h3 {
+
+	font-size: 18px;
+	text-align: left;
+	color: #cccccc;
+}
+
+h4 {
+
+	font-size: 18px;
+	text-align: left;
+	color: #cccccc;
+}
+
+
+
+a: hover {
+	color: #b32d00;
+}
+
+ul {
+	font-size: 17px;
+	color: #808080;
+}
+
+ 
+ .column {
+ 	width: 300;
+ 	float: left;
+ 	padding-left: 5px;
+ }
+
+
+.smallimage1 {
+	float: left;
+}
+
+.smallimage2 {
+	float: right;
+}
+
+
+

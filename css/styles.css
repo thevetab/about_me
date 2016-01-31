@@ -14,8 +14,8 @@ p {
 h1 {
 	font-size: 5em;
 	color: #cccccc;
-	padding-top: 20px;
-	padding-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 20px;
 }
 
 h2 {
@@ -26,37 +26,32 @@ h2 {
 }
 
 h3 {
-
 	font-size: 18px;
 	text-align: left;
 	color: #cccccc;
 }
 
 h4 {
-
 	font-size: 18px;
 	text-align: left;
 	color: #cccccc;
 }
 
-
-
-a: hover {
-	color: #b32d00;
-}
-
-ul {
+a:hover {
+	color: white;
 	font-size: 17px;
-	color: #808080;
 }
 
- 
+a:link, a:visited, a:active {
+	color: #006666;
+	font-size: 17px;
+}
+
  .column {
  	width: 300;
  	float: left;
  	padding-left: 5px;
  }
-
 
 .smallimage1 {
 	float: left;
@@ -66,5 +61,11 @@ ul {
 	float: right;
 }
 
+.boldtext {
+	font-weight: bold;
+}
 
-
+.list {
+	font-size: 17px;
+	color: #808080;
+}
